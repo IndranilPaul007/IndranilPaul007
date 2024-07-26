@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IndranilPaul
-- 👀 I’m interested in making simulations, websites, block chains, games.
+- 👀 I’m interested in making simulations, websites, block chains, games, aiml.
 - 🌱 I’m currently learning basics.
 - 💞️ I’m looking to collaborate on all works i am interested in.
-- 📫 How to reach me? Answer is contact e using my gmail indranilpaul842@gmail.com
+- 📫 How to reach me? Answer is contact e using my gmail indranilpaul841@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am doing my bachelors in Integrated+Honours Physics 
 
