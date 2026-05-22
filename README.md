@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IndranilPaul
-- 👀 I’m interested in making simulations, websites, block chains, games, aiml.
+- 👀 I’m interested in making simulations, websites, block chains, games, agentic ai, automated robot systems.
 - 🌱 I’m currently learning basics.
 - 💞️ I’m looking to collaborate on all works i am interested in.
 - 📫 How to reach me? Answer is contact e using my gmail indranilpaul846@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am doing my bachelors in Btech Robotics and Automation 
+- ⚡ Fun fact: I am doing my bachelors in Robotics and Automation. 
 
 <!---
 IndranilPaul007/IndranilPaul007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
