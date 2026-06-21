@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Indranil Paul! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Student+at+NIET+MARIK;Robotics+and+Automation+Major;Passionate+about+Agentic+AI;Building+the+Future+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Student+at+NIET+MARIK;Passionate+about+Agentic+AI;Building+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -42,4 +42,10 @@ I am a passionate **Robotics and Automation** student currently studying at **NI
 ---
 
 ### ⚡ Fun Fact
-I don't just write code; I design systems that interact with the physical world
+I don't just write code; I design systems that interact with the physical world. If it has a sensor, a motor, or an AI brain, I want to build it!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IndranilPaul007&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
