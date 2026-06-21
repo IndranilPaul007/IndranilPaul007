@@ -1,20 +1,20 @@
 <h1 align="center">Hi there, I'm Indranil Paul! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Robotics+and+Automation+Student%3BPassionate+about+Agentic+AI%3BBuilding+the+future+with+Code%3BAlways+learning+new+tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Student+at+NIET+MARIK;Robotics+and+Automation+Major;Passionate+about+Agentic+AI;Building+the+Future+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Automation-blue?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Artificial+Intelligence-orange?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 🔭 About Me
-I am a passionate **Robotics and Automation** undergraduate with a deep interest in building intelligent systems. My journey involves bridging the gap between hardware and software—from simulating robotic behavior to deploying AI agents.
+I am a passionate **Robotics and Automation** student currently studying at **NIET, MARIK**. My journey involves bridging the gap between hardware and software—from simulating robotic behavior to deploying AI agents.
 
 * 🌱 I’m currently diving deep into **ROS2, LIDAR integration, and Agentic AI**.
 * 🎓 Alumnus of the **Harvard CS50x** program.
@@ -42,10 +42,4 @@ I am a passionate **Robotics and Automation** undergraduate with a deep interest
 ---
 
 ### ⚡ Fun Fact
-I don't just write code; I design systems that interact with the physical world. If it has a sensor, a motor, or an AI brain, I want to build it!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndranilPaul007&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+I don't just write code; I design systems that interact with the physical world
