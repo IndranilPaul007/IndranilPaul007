@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-Automation-blue?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Artificial+Intelligence-orange?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://www.linkedin.com/in/indranil-paul-7009a8242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/clue.less.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/indranilpaul841"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
