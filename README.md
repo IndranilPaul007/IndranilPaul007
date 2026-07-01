@@ -19,7 +19,7 @@ I am a passionate **Robotics and Automation** student currently studying at **NI
 * 🌱 I’m currently diving deep into **ROS2, LIDAR integration, Agentic AI and Autonomous Systems**.
 * 💻 I'm also building responsive web applications using **Full-Stack Development** tools.
 * 🎓 Student at the **Harvard CS50x** program.
-* 🤝 I’m open to collaborating on open-source projects related to robotics, simulations, or AI automation.
+* 🤝 I’m open to collaborating on open-source projects related to robotics, simulations, AI automation or Website development.
 * 📫 How to reach me: <a href="mailto:indranilpaul846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" valign="middle" /></a>
 
 ---
