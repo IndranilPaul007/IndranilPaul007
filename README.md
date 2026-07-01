@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Indranil Paul! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Harvard+CS50x+Student;Passionate+about+Agentic+AI;Building+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Full+Stack+Developer;Passionate+about+Agentic+AI;Building+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
 <p align="center">
