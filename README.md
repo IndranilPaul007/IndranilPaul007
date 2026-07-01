@@ -31,9 +31,9 @@ I am a passionate **Robotics and Automation** student currently studying at **NI
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndranilPaul007&theme=radical&column=4&margin-w=15&margin-h=15" alt="Indranil's GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilPaul007&theme=radical" alt="Indranil's GitHub Streak" />
 </p>
 
 ---
