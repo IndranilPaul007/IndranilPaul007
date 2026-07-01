@@ -16,7 +16,7 @@
 ### 🔭 About Me
 I am a passionate **Robotics and Automation** student currently studying at **NIET, MARIK**. My journey involves bridging the gap between hardware and software—from simulating robotic behavior to deploying AI agents.
 
-* 🌱 I’m currently diving deep into **ROS2, LIDAR integration, and Agentic AI**.
+* 🌱 I’m currently diving deep into **ROS2, LIDAR integration, Agentic AI and Autonomous Systems**.
 * 💻 I'm also building responsive web applications using **Full-Stack Development** tools.
 * 🎓 Student at the **Harvard CS50x** program.
 * 🤝 I’m open to collaborating on open-source projects related to robotics, simulations, or AI automation.
