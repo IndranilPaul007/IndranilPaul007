@@ -27,7 +27,7 @@ I am a passionate **Robotics and Automation** student currently studying at **NI
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://cs50.harvard.edu/x/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs50/cs50-original.svg" alt="cs50" width="40" height="40"/></a>
+  <a href="https://cs50.harvard.edu/x/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs50/cs50-plain.svg" alt="cs50" width="40" height="40"/></a>
   <a href="https://www.kernel.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <br>
