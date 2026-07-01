@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/indranil-paul-7009a8242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/clue.less.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/indranilpaul841"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://unstop.com/u/indrapau69790"><img src="https://img.shields.io/badge/Unstop-1C4980?style=for-the-badge&logo=unstop&logoColor=white" /></a>
 </p>
 
 ---
