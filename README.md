@@ -45,8 +45,8 @@ I am a passionate **Robotics and Automation** student currently studying at **NI
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=IndranilPaul007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Indranil's GitHub stats" />
-  <img src="https://github-readme-metrics.vercel.app/api/top-langs/?username=IndranilPaul007&layout=compact&theme=radical" alt="Indranil's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IndranilPaul007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Indranil's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IndranilPaul007&layout=compact&theme=radical" alt="Indranil's Top Languages" />
 </p>
 
 ---
