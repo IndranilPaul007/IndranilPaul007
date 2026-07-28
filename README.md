@@ -75,3 +75,22 @@ I don't just write code; I design systems that interact with the physical world.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IndranilPaul007&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
+
+
+---
+
+## 🚀 Featured Projects
+
+- **[Jarvis v2.0](https://github.com/IndranilPaul007/Jarvis-v2.0)** — A local-first, screen-aware Windows desktop agent built with Ollama, Qwen, MiniCPM-V, Whisper, and Python.
+- **[Team Aerovista — Redrob AI Pipeline](https://github.com/IndranilPaul007/Team-Aerovista-Redrob-AI-Pipeline)** — A two-stage AI candidate-retrieval pipeline built for fast profile discovery and ranking at scale.
+- **[KSP Crime Database](https://github.com/priyanjalipatel/KSP-Crime-Database)** — An AI-powered crime-intelligence platform using LLMs, RAG, knowledge graphs, and analytics for explainable investigation support.
+
+## 🎯 Current Focus
+
+- Building practical, local AI agents that can use tools safely.
+- Learning ROS 2, LiDAR integration, and autonomous-systems fundamentals.
+- Creating polished full-stack applications and contributing to open source.
+
+---
+
+⭐ Explore my pinned repositories to see what I am building. I am always happy to connect with people working on robotics, AI automation, and developer tools.
