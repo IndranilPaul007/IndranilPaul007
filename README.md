@@ -21,9 +21,9 @@
 ### 🔭 About Me
 I am a passionate **Robotics and Automation** student currently studying at **NIET, MARIK**. My journey involves bridging the gap between hardware and software—from simulating robotic behavior to deploying AI agents.
 
-* 🌱 I’m currently diving deep into **ROS2, LIDAR integration, Agentic AI and Autonomous Systems**.
+* 🌱 I’m currently diving deep into **ROS2, LiDAR integration, Agentic AI and Autonomous Systems**.
 * 💻 I'm also building responsive web applications using **Full-Stack Development** tools.
-* 🎓 Student at the **Harvard CS50x** program, under Proff. David J. Malan.
+* 🎓 Student at the **Harvard CS50x** program, under Professor David J. Malan.
 * 🤝 I’m open to collaborating on open-source projects related to robotics, simulations, AI automation or Website development.
 * 📫 How to reach me: <a href="mailto:indranilpaul841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" valign="middle" /></a>
 
