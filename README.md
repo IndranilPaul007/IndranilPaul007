@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Full+Stack+Developer;Passionate+about+Agentic+AI;Building+with+Code;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
-<!-- ANIMATED HEADER / DOT GRAPHIC -->
+<!-- DOTTED VISUAL MAP / AVATAR ART -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Indranil%20Paul&fontSize=40&animation=twinkling&theme=radical" alt="Dot Animated Header" />
+  <img src="https://readme-visual-map.vercel.app/api?username=IndranilPaul007&theme=radical&shape=code" alt="Visual Map" />
 </p>
 
 <p align="center">
