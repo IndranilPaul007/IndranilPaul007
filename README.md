@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/clue.less.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/indranilpaul841"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://unstop.com/u/indrapau69790"><img src="https://img.shields.io/badge/Unstop-1C4980?style=for-the-badge&logo=unstop&logoColor=white" /></a>
-  <a href="https://indranil-portfolio-kappa.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+  <a href="https://indranil-portfolio-git.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 </p>
 
 ---
